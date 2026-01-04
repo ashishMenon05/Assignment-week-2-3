@@ -14,6 +14,8 @@ Instead of asking the user to enter currency codes, the program allows the user 
 - Takes user input for amount
 - Displays converted currency value in a clean format
 <img width="802" height="412" alt="Screenshot 2026-01-05 022814" src="https://github.com/user-attachments/assets/3f44b2f1-50ae-4bc2-aaca-39e1e336ad3c" />
+<img width="822" height="233" alt="Screenshot 2026-01-05 022541" src="https://github.com/user-attachments/assets/96de0b2a-deea-4385-9864-2dbc4fd8b963" />
+
 
 ## How It Works
 1. User selects the source country
