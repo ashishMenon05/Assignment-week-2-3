@@ -31,3 +31,9 @@ Instead of asking the user to enter currency codes, the program allows the user 
 Install dependency:
 ```bash
 pip install requests
+
+
+
+## API Used
+
+https://open.er-api.com
